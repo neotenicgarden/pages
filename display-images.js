@@ -105,3 +105,5 @@ var l_lim = count*10 + 1;
 var u_lim = count*10 + 10;
 document.getElementById("text").innerHTML = "Images " + l_lim + " to " + u_lim;
 }
+
+document.getElementById("image-container").innerHTML = "test";
