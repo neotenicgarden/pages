@@ -1,3 +1,4 @@
+function StartScript() {
 var str = "HNI_0001,\
 HNI_0002,\
 HNI_0003,\
@@ -73,6 +74,7 @@ document.getElementById("text").innerHTML = "Images 1 to 10";
 
 var count = "0";
 var check = (list.length - 1)/10;
+} //end function
 
 function NextImages() {
 if (count + 1 <= check) {
@@ -104,6 +106,4 @@ function DisplayNumbers() {
 var l_lim = count*10 + 1;
 var u_lim = count*10 + 10;
 document.getElementById("text").innerHTML = "Images " + l_lim + " to " + u_lim;
-}
-
-document.getElementById("image-container").innerHTML = "test";
+} //end function
