@@ -1,5 +1,8 @@
 var count = "0";
 var check = "0";
+var list = "";
+var imageDisplay = "";
+var url = "";
 
 function StartScript() {
 var str = "HNI_0001,\
@@ -62,10 +65,8 @@ HNI_0057,\
 HNI_0058,\
 HNI_0059";
 
-var list = str.split(",");
-
-var imageDisplay = "";
-var url = "http://ppdnotsonic.free.fr/stuff/Miitopia/00/";
+list = str.split(",");
+url = "http://ppdnotsonic.free.fr/stuff/Miitopia/00/";
 
 for (i=0; i<=9; i++) {
 imageDisplay += '<img src="' + url + list[i] + '.JPG" alt=""> ';
