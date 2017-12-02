@@ -1,3 +1,6 @@
+var count = "0";
+var check = "0";
+
 function StartScript() {
 var str = "HNI_0001,\
 HNI_0002,\
@@ -72,11 +75,8 @@ document.getElementById("image-container").innerHTML = imageDisplay;
 document.getElementById("number").innerHTML = "Total images: " + list.length;
 document.getElementById("text").innerHTML = "Images 1 to 10";
 
-
-var check = (list.length - 1)/10;
+check = (list.length - 1)/10;
 } //end function
-
-var count = "0";
 
 function NextImages() {
 if (count + 1 <= check) {
