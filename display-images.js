@@ -6,17 +6,27 @@ var url = "";
 var str = "";
 
 function StartScript() {
-list = str.split(",");
+  list = str.split(",");
 
-for (i=0; i<=9; i++) {
-imageDisplay += '<img src="' + url + list[i] + '.JPG" alt=""> ';
-}
+  for (i=0; i<=9; i++) {
+    imageDisplay += '<img src="' + url + list[i] + '.JPG" alt=""> ';
+  }
 
-document.getElementById("image-container").innerHTML = imageDisplay;
-document.getElementById("number").innerHTML = "Total images: " + list.length;
-document.getElementById("text").innerHTML = "Images 1 to 10";
+  document.getElementById("image-container").innerHTML = imageDisplay;
+  document.getElementById("number").innerHTML = "Total images: " + list.length;
+  document.getElementById("text").innerHTML = "Images 1 to 10";
+  
+  document.getElementById("button-1").innerHTML = "Prev 10";
+  document.getElementByID("button-1").onclick = PrevImages();
+  document.getElementById("button-3").innerHTML = "Prev 10";
+  document.getElementByID("button-3").onclick = PrevImages();
+  
+  document.getElementById("button-2").innerHTML = "Next 10";
+  document.getElementByID("button-2").onclick = NextImages();
+  document.getElementById("button-4").innerHTML = "Next 10";
+  document.getElementByID("button-4").onclick = NextImages();
 
-check = (list.length - 1)/10;
+  check = (list.length - 1)/10;
 } //end function
 
 function NextImages() {
