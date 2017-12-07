@@ -17,14 +17,14 @@ function StartScript() {
   document.getElementById("text").innerHTML = "Images 1 to 10";
   
   document.getElementById("button-1").innerHTML = "Prev 10";
-  document.getElementById("button-1").onclick = PrevImages();
+  document.getElementById("button-1").onclick = PrevImages;
   document.getElementById("button-3").innerHTML = "Prev 10";
-  document.getElementById("button-3").onclick = PrevImages();
+  document.getElementById("button-3").onclick = PrevImages;
   
   document.getElementById("button-2").innerHTML = "Next 10";
-  document.getElementById("button-2").onclick = NextImages();
+  document.getElementById("button-2").onclick = NextImages;
   document.getElementById("button-4").innerHTML = "Next 10";
-  document.getElementById("button-4").onclick = NextImages();
+  document.getElementById("button-4").onclick = NextImages;
 
   check = (list.length - 1)/10;
 } //end function
