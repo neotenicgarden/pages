@@ -4,37 +4,38 @@ var list = "";
 var imageDisplay = "";
 var url = "";
 var str = "";
+var N = 12; //Number of screenshots to view at a time
 
 function StartScript() {
   list = str.split(",");
 
-  for (i=0; i<=9; i++) {
+  for (i=0; i<=N-1; i++) {
     imageDisplay += '<img src="' + url + list[i] + '.JPG" alt=""> ';
   }
 
   document.getElementById("image-container").innerHTML = imageDisplay;
   document.getElementById("number").innerHTML = "Total images: " + list.length;
-  document.getElementById("text").innerHTML = "Images 1 to 10";
+  document.getElementById("text").innerHTML = "Images 1 to " + N;
   
-  document.getElementById("button-1").innerHTML = "Prev 10";
+  document.getElementById("button-1").innerHTML = "Prev " + N;
   document.getElementById("button-1").onclick = PrevImages;
-  document.getElementById("button-3").innerHTML = "Prev 10";
+  document.getElementById("button-3").innerHTML = "Prev " + N;
   document.getElementById("button-3").onclick = PrevImages;
   
-  document.getElementById("button-2").innerHTML = "Next 10";
+  document.getElementById("button-2").innerHTML = "Next " + N;
   document.getElementById("button-2").onclick = NextImages;
-  document.getElementById("button-4").innerHTML = "Next 10";
+  document.getElementById("button-4").innerHTML = "Next " + N;
   document.getElementById("button-4").onclick = NextImages;
 
-  check = (list.length - 1)/10;
+  check = (list.length - 1)/N;
 } //end function
 
 function NextImages() {
 if (count + 1 <= check) {
 count += 1;
 imageDisplay = "";
-for (i=0; i<=9; i++) {
-imageDisplay += '<img src="' + url + list[count*10+i] + '.JPG" alt=""> ';
+for (i=0; i<=N-1; i++) {
+imageDisplay += '<img src="' + url + list[count*N+i] + '.JPG" alt=""> ';
 document.getElementById("image-container").innerHTML = imageDisplay;
 DisplayNumbers()
 }
@@ -46,8 +47,8 @@ function PrevImages() {
 if (count - 1 >= 0) {
 count -= 1;
 imageDisplay = "";
-for (i=0; i<=9; i++) {
-imageDisplay += '<img src="' + url + list[count*10+i] + '.JPG" alt=""> ';
+for (i=0; i<=N-1; i++) {
+imageDisplay += '<img src="' + url + list[count*N+i] + '.JPG" alt=""> ';
 document.getElementById("image-container").innerHTML = imageDisplay;
 DisplayNumbers()
 }
@@ -56,7 +57,7 @@ DisplayNumbers()
 } //end function
 
 function DisplayNumbers() {
-var l_lim = count*10 + 1;
-var u_lim = count*10 + 10;
+var l_lim = count*N + 1;
+var u_lim = count*N + N;
 document.getElementById("text").innerHTML = "Images " + l_lim + " to " + u_lim;
 } //end function
