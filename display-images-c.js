@@ -9,7 +9,7 @@ var prefix = ""; //Prefix of image names, declare in html page
 function StartScript() {
   url = url + prefix + " (";
 
-  for (i=0; i<=N-1; i++) {
+  for (i=1; i<=N; i++) {
     imageDisplay += '<img src="' + url + i + ').JPG" alt=""> ';
   }
 
