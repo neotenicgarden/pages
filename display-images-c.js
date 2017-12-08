@@ -35,7 +35,7 @@ if (count + 1 <= check) {
 count += 1;
 imageDisplay = "";
 var m = 0;
-for (i=0; i<=N-1; i++) {
+for (i=1; i<=N; i++) {
   m = count*N+i;
   imageDisplay += '<img src="' + url + m + ').JPG" alt=""> ';
   document.getElementById("image-container").innerHTML = imageDisplay;
@@ -50,7 +50,7 @@ if (count - 1 >= 0) {
 count -= 1;
 imageDisplay = "";
 var m = 0;
-for (i=0; i<=N-1; i++) {
+for (i=1; i<=N; i++) {
 m = count*N+i;
 imageDisplay += '<img src="' + url + m + ').JPG" alt=""> ';
 document.getElementById("image-container").innerHTML = imageDisplay;
