@@ -9,7 +9,7 @@ var prefix = ""; //Prefix of image names, declare in html page
 function StartScript() {
   url = url + prefix + " (";
 
-  for (i=1; i<=N; i++) {
+  for (i=1; i<=Math.min(N, X); i++) {
     imageDisplay += '<img src="' + url + i + ').JPG" alt=""> ';
   }
 
@@ -38,12 +38,12 @@ if (count + 1 <= check) {
 count += 1;
 imageDisplay = "";
 var m = 0;
-for (i=1; i<=N; i++) {
+for (i=1; i<=N && count*N+i <= X; i++) {
   m = count*N+i;
   imageDisplay += '<img src="' + url + m + ').JPG" alt=""> ';
+  } //end for
   document.getElementById("image-container").innerHTML = imageDisplay;
   DisplayNumbers();
-}
 } //end if
 } //end function
 
@@ -55,9 +55,9 @@ var m = 0;
 for (i=1; i<=N; i++) {
 m = count*N+i;
 imageDisplay += '<img src="' + url + m + ').JPG" alt=""> ';
+  } //end for
 document.getElementById("image-container").innerHTML = imageDisplay;
 DisplayNumbers();
-}
 } //end if
 } //end function
 
