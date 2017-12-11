@@ -1,0 +1,1 @@
+This branch is a backup of the working gallery. No bugs and max display works.
