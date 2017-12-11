@@ -28,9 +28,6 @@ function StartScript() {
   document.getElementById("button-4").onclick = NextImages;
 
   check = (X - 1)/N;
-  
-  //debugging
-  document.getElementById("debug2").innerHTML = "Check: " + check;
 } //end function
 
 function NextImages() {
@@ -65,6 +62,4 @@ function DisplayNumbers() {
 var l_lim = count*N + 1;
 var u_lim = Math.min(count*N + N, X);
 document.getElementById("text").innerHTML = "Images " + l_lim + " to " + u_lim;
-  //debugging
-  document.getElementById("debug1").innerHTML = "Count: " + count;
 } //end function
