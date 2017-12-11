@@ -63,7 +63,7 @@ DisplayNumbers();
 
 function DisplayNumbers() {
 var l_lim = count*N + 1;
-var u_lim = count*N + N;
+var u_lim = Math.min(count*N + N, X);
 document.getElementById("text").innerHTML = "Images " + l_lim + " to " + u_lim;
   //debugging
   document.getElementById("debug1").innerHTML = "Count: " + count;
