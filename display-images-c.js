@@ -15,7 +15,7 @@ function StartScript() {
 
   document.getElementById("image-container").innerHTML = imageDisplay;
   document.getElementById("number").innerHTML = "Total images: " + X;
-  document.getElementById("text").innerHTML = "Images 1 to " + N;
+  DisplayNumbers();
   
   document.getElementById("button-1").innerHTML = "Prev " + N;
   document.getElementById("button-1").onclick = PrevImages;
@@ -28,6 +28,9 @@ function StartScript() {
   document.getElementById("button-4").onclick = NextImages;
 
   check = (X - 1)/N;
+  
+  //debugging
+  document.getElementById("debug2").innerHTML = "Check: " + check;
 } //end function
 
 function NextImages() {
@@ -39,9 +42,8 @@ for (i=1; i<=N; i++) {
   m = count*N+i;
   imageDisplay += '<img src="' + url + m + ').JPG" alt=""> ';
   document.getElementById("image-container").innerHTML = imageDisplay;
-  DisplayNumbers()
+  DisplayNumbers();
 }
-} else {
 } //end if
 } //end function
 
@@ -54,9 +56,8 @@ for (i=1; i<=N; i++) {
 m = count*N+i;
 imageDisplay += '<img src="' + url + m + ').JPG" alt=""> ';
 document.getElementById("image-container").innerHTML = imageDisplay;
-DisplayNumbers()
+DisplayNumbers();
 }
-} else {
 } //end if
 } //end function
 
@@ -64,4 +65,6 @@ function DisplayNumbers() {
 var l_lim = count*N + 1;
 var u_lim = count*N + N;
 document.getElementById("text").innerHTML = "Images " + l_lim + " to " + u_lim;
+  //debugging
+  document.getElementById("debug1").innerHTML = "Count: " + count;
 } //end function
