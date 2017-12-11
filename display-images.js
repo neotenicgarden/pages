@@ -1,5 +1,5 @@
-var count = "0";
-var check = "0";
+var count = 0;
+var check = 0;
 var imageDisplay = "";
 var N = 12; //Number of screenshots to view at a time
 var url = ""; //Declare url in html page
