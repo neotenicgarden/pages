@@ -1,0 +1,29 @@
+CODE=========================================
+
+{INPUT string - database as list
+Separate into array}
+
+{Form arrays pkmnList of unique pokemon, pkmnCount, pkmnDBCoord}
+
+GenerateImages()
+{Generate all Pkmn sprites}
+
+RestorePkmn()
+{Clears stats info}
+
+LoadTable(x)
+{Loads all Pkmn of species x in a temporary table}
+
+ChangePkmn(x)
+{Change Event list to show all of species x}
+
+ChangeEvent(y)
+{Displays Pokemon y from LoadTable}
+
+PAGE=========================================
+
+Click on Pokemon Sprite
+>Load temporary table
+>Change event list
+Click on Event Pokemon in list
+>Change display
