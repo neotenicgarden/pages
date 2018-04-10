@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Vincent's Pokemon Events Collection</title>
+<script type="text/javascript" src="pokemon.js"></script>
+<link rel="stylesheet" type="text/css" href="stylesheet.css">
+</head>
+
+<body onload="GenerateImages()">
+
+<div class="header"><span id="title">Welcome to Vincent's Pokemon Events Collection</span>
+<p>Choose a Pokemon and then pick an Event to see details of that event Pokemon.</p>
+<p>Vincent has searched far and wide to obtain such a variety of Pokemon. Please enjoy his collection.</p></div>
+<div class="imageblock"><img src="https://dl.dropboxusercontent.com/u/33900311/PkmnPage/blank.png" alt="" id="picture"></div>
+<div class="infoblock">
+<table width="400px">
+<tr>
+    <td class="fieldname" width="120px">
+    <span id="pkmn">Pokemon</span> - 
+    </td>
+    <td class="field" width="270px">
+    <span id="pkmnevent">Choose a Pokemon</span>
+    </td>
+  </tr>
+  <tr>
+    <td class="fieldname">
+    Region:
+    </td>
+    <td class="field">
+    <span id="region"></span>
+    </td>
+  </tr>
+  <tr>
+    <td class="fieldname">
+    Date:
+    </td>
+    <td class="field">
+    <span id="date"></span>
+    </td>
+  </tr>
+  <tr>
+    <td class="fieldname">
+    Description:
+    </td>
+    <td class="field">
+    <span id="description"></span>
+    </td>
+  </tr>
+  <tr>
+    <td class="fieldname">
+    Feature:
+    </td>
+    <td class="field">
+    <span id="feature"></span>
+    </td>
+  </tr>
+  <tr>
+    <td class="fieldname">
+    Comment:
+    </td>
+    <td class="field">
+    <span id="comment"></span>
+    </td>
+  </tr>
+</table>
+</div>
+<br>
+<div class="iconsblock"><span id="pokemonicons">Please wait for Pokemon to load...</span></div>
+<div class="eventsblock">
+<span id="eventlistheader">Choose a Pokemon</span>
+<p id="eventlist"></p>
+</div>
+<br>
+<div class="credits">Credits to serebii.net for the Pokemon sprites.<br>
+HTML page and JavaScript code written by JLau.<br>
+Last updated 15/9/2016.
+</div>
+
+<!--<p id="testing">Testing area</p>
+<p onclick="TestFunction()">Click me</p>-->
+
+</body>
+</html>

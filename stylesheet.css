@@ -1,11 +1,85 @@
 body {
-  font-family: "Verdana", "Arial", Sans-Serif;
+    text-align: center;
+    font-family: Tahoma, Sans-serif;
+    background-color: #ffa0a0;
+    background-image: url("dianciebg.jpg");
+    background-attachment: fixed;
+    background-size: contain;
 }
 
-.heading {
-  font-size: 200%;
+#title {
+    font-size: 200%;
+    font-weight: bold;
 }
 
-.heading2 {
-  font-size: 150%;
+#pkmn, #pkmnevent, #eventlistheader {
+    font-weight: bold;
+}
+
+#region, #date, #description, #feature, #comment {
+}
+
+/* Style of the Pokemon sprites*/
+.iconsblock img{
+    cursor: pointer;
+    padding: 3px;
+    border: 1px solid transparent;
+}
+/* Does this count as border hack */
+
+.iconsblock img:hover{
+    border: 1px solid #ff8080;
+    background-color: #ffffff;
+}
+
+/* Style of the list of events */
+#eventlist span{
+    color: red;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+#eventlist span:hover{
+    background-color: #ffffff;
+}
+
+/* Style of the blocks */
+.imageblock, .infoblock, .iconsblock, .eventsblock, .credits {
+    display: inline-block;
+    background-color: rgb(255, 176, 176);
+    background-color: rgba(255, 176, 176, 0.9);
+    /* background-color: #ffb0b0; */
+    margin: 10px;
+    border: 1px solid red;
+    vertical-align: top;
+}
+
+.imageblock, .iconsblock {
+    width: 500px;
+}
+
+.imageblock, .infoblock {
+    height: 240px;
+}
+
+.infoblock, .eventsblock {
+    width: 420px;
+}
+
+.credits {
+    font-weight: bold;
+    padding: 5px;
+}
+
+/* Table alignments */
+td {
+    vertical-align: top;
+}
+
+.fieldname {
+    text-align: right;
+}
+
+.field {
+    text-align: left;
 }
