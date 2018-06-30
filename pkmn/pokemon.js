@@ -1,4 +1,4 @@
-// JavaScript code written by JLau.
+// Author: JLau, 2016
 
 // Pokemon as string. Pokemon must be in alphabetical order.
 var str = "00026,Aegislash,N. America,Worlds 2014,August 2014,Distributed at Pokemon Worlds 2014,Fixed nature; knows Wide Guard,--\
@@ -7,18 +7,13 @@ var str = "00026,Aegislash,N. America,Worlds 2014,August 2014,Distributed at Pok
 00089,Arceus,Singapore,Manesh,December 2015,Given out on Maxsoft's Facebook page,,High IVs--\
 00123,Arceus,Korea,Dahara City (KOR),December 2015,Gift for watching the 18th movie,Knows Blast Burn and Hydro Cannon,--\
 00126,Arceus,Taiwan,Dahara City (TW),November 2015,Gift for watching the 18th movie,,High IVs and trained--\
-00175,Arceus,Europe/America,Game Freak (ENG),August 2016,Wi-Fi gift to celebrate Pokemon's 20th anniversary,,High IVs --\
 00076,Aromatisse,Europe,Gamescom,August 2015,Given out at Gamescom 2015 and various European events,Fixed nature; has its hidden ability,--\
-00144,Articuno,Japan,Pokescrap 2016,March 2016,Obtained by redeeming scrap codes from Pokemon merchandise,Has its hidden ability,High IVs--\
-00157,Articuno,N. America,Aldora (NA),May 2016,Given out from the Pokemon Trainer Club Newsletter,Has its hidden ability,--\
-00168,Articuno,Korea,Movie,May 2016,Available from a universal serial code from 2nd movie,Has its hidden ability,--\
-00193,Articuno,Europe,Aldora (EU),March 2016,Given out at various locations in Europe to tie-in with BREAKpoint,Has its hidden ability,--\
+00144,Articuno,Japan,Pokescrap 2016,March 2016,Obtained by redeeming scrap codes from Pokemon merchandise,Has its hidden ability,--\
 00046,Bagon,Japan,Mega Campaign,January 2015,Distributed randomly at Pokemon Centres to celebrate the 2nd Mega Campaign,In egg form; has its hidden ability,--\
 00031,Beldum,Global,Steven's,November 2014,Wi-Fi event to celebrate the release of ORAS,Shiny; has its mega stone; knows Hold Back,--\
 00154,Blastoise,Japan,Pokescrap 2016,April 2016,Obtained by redeeming scrap codes from Pokemon merchandise,Has its hidden ability and mega stone,--\
 00075,Bouffalant,Europe,Gamescom,August 2015,Given out at Gamescom 2015 and various European events,Fixed nature; has its hidden ability,--\
 00065,Bulbasaur,Japan,Pokemon Lab,July 2015,Given out for completing tasks at the Pokemon Lab in Tokyo,Has its mega stone,--\
-00190,Bulbasaur,N. America,Worlds 2016,August 2016,Distributed at Pokemon Worlds 2016,Has its hidden ability and mega stone,--\
 00048,Carvanha,Japan,Mega Campaign,January 2015,Distributed randomly at Pokemon Centres to celebrate the 2nd Mega Campaign,In egg form; has its hidden ability,--\
 00005,Celebi,Global,Pokemon Bank,December 2013,Gift for downloading Pokemon Bank during its first year,Knows Hold Back,--\
 00093,Celebi,Europe/America,Game Freak (ENG),March 2016,Wi-Fi gift to celebrate Pokemon's 20th anniversary,,High IVs--\
@@ -33,12 +28,10 @@ var str = "00026,Aegislash,N. America,Worlds 2014,August 2014,Distributed at Pok
 00137,Charizard,Japan,EXPO Gym,November 2015,Given out for completing programs at EXPOCITY in Osaka,Fixed nature; has its mega stone,--\
 00153,Charizard,Japan,Pokescrap 2016,April 2016,Obtained by redeeming scrap codes from Pokemon merchandise,Has its hidden ability and mega stone,--\
 00066,Charmander,Japan,Pokemon Lab,July 2015,Given out for completing tasks at the Pokemon Lab in Tokyo,Has its mega stone,--\
-00191,Charmander,N. America,Worlds 2016,August 2016,Distributed at Pokemon Worlds 2016,Has its hidden ability and mega stone,--\
 00134,Chikorita,Japan,Pokemon Lab,December 2015,Given out for completing tasks at the Pokemon Lab in Nagoya,,--\
 00135,Cyndaquil,Japan,Pokemon Lab,December 2015,Given out for completing tasks at the Pokemon Lab in Nagoya,,--\
 00008,Darkrai,Japan,Wonderland (JPN),April 2014,Gift for pre-ordering tickets for the 17th movie,Knows Phantom Force,High IVs--\
 00050,Darkrai,UK,February 2015,February 2015,Given out at GAME stores,Knows Phantom Force,High IVs--\
-00172,Darkrai,Europe/America,Game Freak (ENG),May 2016,Wi-Fi gift to celebrate Pokemon's 20th anniversary,,--\
 00090,Delibird,Global,PGL,December 2015,Gift for participating in the Festive Feud,Has a Relic Gem; knows Happy Hour,--\
 00027,Diancie,Taiwan,Movie (TW),August 2014,Gift for watching the 17th movie,Has a Normal Gem,High IVs--\
 00043,Diancie,Korea,Movie (KOR),January 2015,Gift for watching the 17th movie,Has a Normal Gem,--\
@@ -47,23 +40,18 @@ var str = "00026,Aegislash,N. America,Worlds 2014,August 2014,Distributed at Pok
 00128,Diancie,N. America,October 2014,October 2014,Given out at Gamestop to tie-in with Phantom Forces,Has a Normal Gem,--\
 00129,Diancie,Europe,November 2014,November 2014,Given out at various game stores in Europe,Has a Normal Gem,High IVs--\
 00130,Diancie,Europe/America,Hope,July 2015,Wi-Fi gift,,Somewhat high IVs--\
-00188,Diancie,Korea,All-Stars,August 2016,Given out at the Pok?mon All-Stars Battle Event in South Korea,Shiny,--\
-00196,Diancie,Japan,Pokemon Centre,December 2015,Distributed at Pokemon Centres in Japan,Shiny,--\
 00062,Dragonite,N. America,June 2015,June 2015,Given out at Gamestop stores to tie-in with Roaring Skies,Has its hidden ability,--\
-00155,Dragonite,Global,Lance's,March 2016,Gift for participating in the Kanto Classic,Knows Barrier,High IVs--\
+00146,Dragonite,Global,Lance's,March 2016,Gift for participating in the Kanto Classic,Knows Barrier,High IVs--\
 00143,Eevee,Japan,Pokescrap 2016,March 2016,Obtained by redeeming scrap codes from Pokemon merchandise,Shiny; has its hidden ability,--\
 00006,Electabuzz,UK,GAME UK,April 2014,Given out at GAME stores to celebrate Easter,Has its hidden ability and evolution item,--\
 00040,Emboar,Japan,Present (JPN),January 2015,Available from a universal serial code from Pokemon Get TV,Has its hidden ability; knows Hold Back,--\
 00114,Emboar,Europe/America,Present (ENG),January 2015,Available from a universal serial code from the Pokemon website,Has its hidden ability; knows Hold Back,--\
 00052,Fennekin,Japan,Serena's,February 2015,Available from a universal serial code from the Pokemon anime,Fixed nature,--\
 00055,Feraligatr,Global,Pokemon Bank,February 2015,Gift for downloading Pokemon Bank during its second year,Has its hidden ability,--\
-00187,Garchomp,Global,Cynthia's,August 2016,Gift for participating in the Sinnoh Classic,,--\
-00184,Gardevoir,Japan,Chymia's,June 2016,Given out at various locations in Japan to tie-in with the 19th movie,Shiny; has its Mega stone,--\
 00018,Gengar,Japan,Battle Championship,June 2014,Distributed at Pokemon Centres during the Pokemon Centre Battle Championship,Has its mega stone,--\
 00110,Gengar,Japan,Halloween,September 2014,Distributed at Pokemon Centres to celebrate Halloween,Shiny; knows Sludge Wave,--\
 00111,Gengar,Europe/America,October 2014,October 2014,Given out at game stores to tie-in with Phantom Forces,Shiny; knows Sludge Wave,--\
 00112,Gengar,Singapore,XY,October 2014,Given out at Pokemon Day in Singapore,Shiny; knows Sludge Wave,--\
-00185,Gengar,Japan,Jarvis's,July 2016,Given out at 7-Eleven stores to tie-in with the 19th movie,Shiny; has its Mega stone,--\
 00087,Giratina,Korea,Dahara City (KOR), November 2015,Available from a universal serial code from the Korean official website,Fixed nature; has its hidden ability,--\
 00035,Greninja,Japan,Smash Bros,December 2014,Obtained by registering Super Smash Bros 3DS and ORAS; based on Greninja from Smash Bros,Has its hidden ability,--\
 00016,Gyarados,Japan,Battle Championship,May 2014,Distributed at Pokemon Centres during the Pokemon Centre Battle Championship,Has its mega stone,--\
@@ -74,8 +62,6 @@ var str = "00026,Aegislash,N. America,Worlds 2014,August 2014,Distributed at Pok
 00119,Hoopa,Europe,Harry,October 2015,Given out at various game stores in Europe,,High IVs--\
 00121,Hoopa,N. America,McDonalds,November 2015,Distributed at McDonalds,,--\
 00122,Hoopa,Korea,Movie (KOR),December 2015,Gift for watching the 18th movie,,--\
-00156,Hoopa,Singapore,Manesh,August 2015,Given out at various game stores and from Maxsoft's Facebook page,,High IVs --\
-00164,Hoopa,Taiwan,Mighty,November 2015,Gift for pre-ordering tickets for the 18th movie,,--\
 00091,Infernape,Hong Kong/Taiwan,Jade,January 2016,Given out on Nintendo HK/TW's Facebook page to celebrate Lunar New Year,Has its hidden ability,--\
 00003,Inkay,Japan,PC Tokyo Bay,November 2013,Distributed at Pokemon Centres during the launch of the Tokyo Bay Pokemon Centre,Knows Happy Hour,--\
 00025,Jirachi,Japan,Tanabata 2014,August 2014,Distributed at the Tohoku Pokemon Centre to celebrate Tanabata,Shiny; knows Moonblast,--\
@@ -97,21 +83,10 @@ var str = "00026,Aegislash,N. America,Worlds 2014,August 2014,Distributed at Pok
 00077,Malamar,Europe,Gamescom,August 2015,Given out at Gamescom 2015 and various European events,Fixed nature,--\
 00009,Mamoswine,Europe/America,VGC 2014,May 2014,Distributed at VGC Nationals 2014; based off Arash Ommati's Mamoswine,Shiny; has fixed nature,High Attack and Speed IVs--\
 00073,Manaphy,Korea,Water Tribe,July 2015,Gift for watching the rescreening of the 9th movie,,--\
-00173,Manaphy,Europe/America,Game Freak (ENG),June 2016,Wi-Fi gift to celebrate Pokemon's 20th anniversary,,High IVs --\
-00171,Mareep,Korea,National Pokedex,June 2015,Included with the ORAS Official Guidebook Complete National Pokedex Full Guide,Knows Hold Back; has its Mega Stone,--\
 00015,Mawile,Japan,Battle Championship,June 2014,Distributed at Pokemon Centres during the Pokemon Centre Battle Championship,Has its mega stone,--\
 00053,Meganium,Global,Pokemon Bank,February 2015,Gift for downloading Pokemon Bank during its second year,Has its hidden ability,--\
-00189,Meowth,Europe,Happy,August 2016,Wi-Fi event that was released without an announcement...,Knows Happy Hour,--\
 00092,Mew,Europe/America,Game Freak (ENG),February 2016,Distributed at game stores to celebrate Pokemon's 20th anniversary,,High IVs--\
 00141,Mew,Japan,Game Freak (JPN),February 2016,Gift for purchasing the special Pokemon Nintendo 2DS bundle,,--\
-00179,Mewtwo,Japan,Pokescrap 2016,April 2016,Obtained by redeeming scrap codes from Pokemon merchandise,Shiny; has its hidden ability and mega stone,--\
-00183,Mewtwo,Hong Kong/Taiwan,Nintendo HK,June 2016,Given out at the first Hong Kong/Taiwan VGC Nationals,Shiny; has its hidden ability and mega stone,High IVs --\
-00186,Mewtwo,Europe/America,Play! 2016,July 2016,Gift for acquiring at least 1 Play! Point during the 2016 season,Shiny; has its hidden ability and mega stone,--\
-00182,Miltank,Global,Whitney's,May 2016,Gift for participating in the Johto Classic,,--\
-00159,Moltres,N. America,Aldora (NA),May 2016,Given out from the Pokemon Trainer Club Newsletter,Has its hidden ability,--\
-00170,Moltres,Korea,Movie,May 2016,Available from a universal serial code from 2nd movie,Has its hidden ability,--\
-00177,Moltres,Japan,Pokescrap 2016,March 2016,Obtained by redeeming scrap codes from Pokemon merchandise,Has its hidden ability,--\
-00195,Moltres,Europe,Aldora (EU),March 2016,Given out at various locations in Europe to tie-in with BREAKpoint,Has its hidden ability,--\
 00045,Numel,Japan,Mega Campaign,January 2015,Distributed randomly at Pokemon Centres to celebrate the 2nd Mega Campaign,In egg form; has its hidden ability,--\
 00030,Pachirisu,Korea,Sejun Park's,November 2014,Distributed at Korean Regionals; based on Sejun Park's Pachirisu,Fixed nature and IVs,--\
 00060,Pachirisu,Europe/America,VGC 2015,May 2015,Distributed at VGC Nationals 2015; based off Sejun Park's Pachirisu,Fixed nature and IVs,--\
@@ -141,7 +116,6 @@ var str = "00026,Aegislash,N. America,Worlds 2014,August 2014,Distributed at Pok
 00049,Rayquaza,Japan,World Hobby Fair,January 2015,Distributed at the Winter 2015 World Hobby Fair,Shiny,--\
 00116,Rayquaza,Japan,CoroCoro,March 2015,Given out at various stores in Japan,Shiny,--\
 00125,Rayquaza,Hong Kong/Taiwan,Nintendo HK,September 2015,Given out on Nintendo HK/TW's Facebook page,Shiny,High IVs--\
-00163,Rayquaza,Europe/America ,Galileo,August 2015,Given out at various locations in Europe to tie-in with Ancient Origins; Wi-Fi in America,Shiny,--\
 00095,Regice,Global,Pokemon Bank,March 2016,Gift for downloading Pokemon Bank during its third year,Has its hidden ability,--\
 00094,Regirock,Global,Pokemon Bank,March 2016,Gift for downloading Pokemon Bank during its third year,Has its hidden ability,--\
 00096,Registeel,Global,Pokemon Bank,March 2016,Gift for downloading Pokemon Bank during its third year,Has its hidden ability,--\
@@ -154,9 +128,7 @@ var str = "00026,Aegislash,N. America,Worlds 2014,August 2014,Distributed at Pok
 00113,Serperior,Europe/America,Present (ENG),January 2015,Available from a universal serial code from the Pokemon website,Has its hidden ability; knows Hold Back,--\
 00081,Sharpedo,N. America,Worlds 2015,August 2015,Distributed at Pokemon Worlds 2015,Fixed nature; has its hidden ability and mega stone,--\
 00032,Shaymin,Japan,Pokescrap 2014,December 2014,Obtained by redeeming scrap codes from Pokemon merchandise,,--\
-00174,Shaymin,Europe/America,Game Freak (ENG),July 2016,Wi-Fi gift to celebrate Pokemon's 20th anniversary,,--\
 00067,Squirtle,Japan,Pokemon Lab,July 2015,Given out for completing tasks at the Pokemon Lab in Tokyo,Has its mega stone,--\
-00192,Squirtle,N. America,Worlds 2016,August 2016,Distributed at Pokemon Worlds 2016,Has its hidden ability and mega stone,--\
 00047,Swablu,Japan,Mega Campaign,January 2015,Distributed randomly at Pokemon Centres to celebrate the 2nd Mega Campaign,In egg form; has its hidden ability,--\
 00001,Sylveon,Japan,Birthday,October 2013,Given out at Pokemon Centres during your birth month,Knows Celebrate,Picked up on my birthday--\
 00004,Sylveon,Hong Kong/Taiwan,XY,January 2014,Distributed at various locations to tie in with the 16th movie,,--\
@@ -172,27 +144,15 @@ var str = "00026,Aegislash,N. America,Worlds 2014,August 2014,Distributed at Pok
 00102,Vivillon,Japan,Pokemon Centre,August 2014,Distributed at Pokemon Centres in Japan,Poke Ball pattern,--\
 00103,Vivillon,N. America,Summer 2014,August 2014,Wi-Fi gift to celebrate the Pokemon Centre's reopening,Poke Ball pattern,--\
 00104,Vivillon,Europe,Summer 2014,August 2014,First available at Gamescom 2014 then as a Wi-Fi gift,Poke Ball pattern,High Special Attack and Speed IVs--\
-00178,Volcanion,Japan,Nebel,April 2016,Gift for pre-ordering tickets for the 19th movie ,,--\
-00127,Xerneas,Japan,XY&Z (JPN),October 2015,Available from a universal serial code from the Pokemon anime,Shiny,High IVs and trained--\
-00160,Xerneas,N. America,XYZ,May 2016,Wi-Fi event to tie-in with Fates Collide,Shiny,--\
-00165,Xerneas,Korea,XY&Z (KOR),March 2016,Available from a universal serial code from the Pokemon anime,Shiny,--\
-00180,Xerneas,Europe,Descartes,May 2016,Given out at various locations in Europe to tie-in with Fates Collide,Shiny,--\
-00084,Yveltal,Japan,XY&Z (JPN),November 2015,Available from a universal serial code from the Pokemon anime,Shiny,High IVs--\
-00161,Yveltal,N. America,XYZ,May 2016,Wi-Fi event to tie-in with Fates Collide,Shiny,--\
-00166,Yveltal,Korea,XY&Z (KOR),April 2016,Available from a universal serial code from the Pokemon anime,Shiny,--\
-00181,Yveltal,Europe,Descartes,May 2016,Given out at various locations in Europe to tie-in with Fates Collide,Shiny,--\
-00158,Zapdos,N. America,Aldora (NA),May 2016,Given out from the Pokemon Trainer Club Newsletter,Has its hidden ability,--\
-00169,Zapdos,Korea,Movie,May 2016,Available from a universal serial code from 2nd movie,Has its hidden ability,--\
-00176,Zapdos,Japan,Pokescrap 2016,March 2016,Obtained by redeeming scrap codes from Pokemon merchandise,Has its hidden ability,--\
-00194,Zapdos,Europe,Aldora (EU),March 2016,Given out at various locations in Europe to tie-in with BREAKpoint,Has its hidden ability,--\
+00127,Xerneas,Japan,XY & Z,October 2015,Available from a universal serial code from the Pokemon anime,Shiny,High IVs and trained--\
+00084,Yveltal,Japan,XY & Z,November 2015,Available from a universal serial code from the Pokemon anime,Shiny,High IVs--\
 00086,Zoroark,Europe,Sly (EU),November 2015,Given out at game stores to tie-in with BREAKthrough,Knows Sludge Bomb,--\
 00120,Zoroark,N. America,Sly (NA),November 2015,Given out at game stores to tie-in with BREAKthrough,Knows Sludge Bomb,--\
 00138,Zoroark,Japan,EXPO Gym,November 2015,Given out for completing programs at EXPOCITY in Osaka,Fixed nature,--\
-00085,Zygarde,Japan,XY&Z (JPN),November 2015,Available from a universal serial code from the Pokemon anime,,High IVs but wrong nature--\
-00151,Zygarde,Europe,Descartes,May 2016,Wi-Fi gift to tie-in with Fates Collide,,High IVs--\
-00162,Zygarde,N. America,XYZ,May 2016,Wi-Fi event to tie-in with Fates Collide,,--\
-00167,Zygarde,Korea,XY&Z (KOR),April 2016,Available from a universal serial code from the Pokemon anime,,";
+00085,Zygarde,Japan,XY & Z,November 2015,Available from a universal serial code from the Pokemon anime,,High IVs but wrong nature--\
+00151,Zygarde,Europe,Descartes,May 2016,Wi-Fi gift to tie-in with Fates Collide,,High IVs";
 
+var URL = "http://www.serenesforest.net/app/pkmn-events/";
 
 // Forms the main database of Pokemon, pkmnDB.
 var pkmnDB = str.split("--");
@@ -228,7 +188,7 @@ pkmnCount.push(count); // Add count of final Pokemon.
 function GenerateImages() {
 var tempString = "";
 for (i = 0; i < pkmnList.length; i++) {
-  tempString += '<img src="Sprites/' + pkmnList[i] + '.png" alt="" onclick="ChangePkmn(' + i + ')"> '
+  tempString += '<img src="' + URL + 'Sprites/' + pkmnList[i] + '.png" alt="" onclick="ChangePkmn(' + i + ')"> '
 }
 document.getElementById("pokemonicons").innerHTML = tempString;
 }
@@ -287,7 +247,7 @@ document.getElementById("eventlist").innerHTML = tempString2;
 
 // ChangeEvent now references the loadedTable numbers. Brings up event information.
 function ChangeEvent(x) {
-document.getElementById("picture").src = "Screens/" + loadedTable[x].pictureID + ".png";
+document.getElementById("picture").src = URL + "Screens/" + loadedTable[x].pictureID + ".png";
 document.getElementById("pkmnevent").innerHTML = loadedTable[x].event;
 document.getElementById("region").innerHTML = loadedTable[x].region;
 document.getElementById("date").innerHTML = loadedTable[x].date;
