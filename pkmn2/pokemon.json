@@ -1,0 +1,1272 @@
+{"pokemon":[
+  {
+    "id": "00026",
+    "pokemon": "Aegislash",
+    "region": "N. America",
+    "event": "Worlds",
+    "date": "August 2014",
+    "description": "Distributed at Pokemon Worlds 2014",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00058",
+    "pokemon": "Amaura",
+    "region": "Global",
+    "event": "PGL",
+    "date": "March 2015",
+    "description": "Gift for participating in Enter the Dragon Type",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00057",
+    "pokemon": "Arceus",
+    "region": "Japan",
+    "event": "Movie (JPN)",
+    "date": "March 2015",
+    "description": "Gift for pre-ordering tickets for the 18th movie; could be shiny",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00126",
+    "pokemon": "Arceus",
+    "region": "Taiwan",
+    "event": "Dahara City (TW)",
+    "date": "November 2015",
+    "description": "Gift for watching the 18th movie",
+    "feature": "High IVs and trained",
+    "comment": ""
+  },
+  {
+    "id": "00089",
+    "pokemon": "Arceus",
+    "region": "Singapore",
+    "event": "Manesh",
+    "date": "December 2015",
+    "description": "Given out on Maxsoft's Facebook page",
+    "feature": "High IVs",
+    "comment": ""
+  },
+  {
+    "id": "00123",
+    "pokemon": "Arceus",
+    "region": "Korea",
+    "event": "Dahara City (KOR)",
+    "date": "December 2015",
+    "description": "Gift for watching the 18th movie",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00076",
+    "pokemon": "Aromatisse",
+    "region": "Europe",
+    "event": "Gamescom",
+    "date": "August 2015",
+    "description": "Given out at Gamescom 2015 and various European events",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00046",
+    "pokemon": "Bagon",
+    "region": "Japan",
+    "event": "Mega Campaign",
+    "date": "January 2015",
+    "description": "Distributed randomly at Pokemon Centres to celebrate the 2nd Mega Campaign",
+    "feature": "Unhatched",
+    "comment": ""
+  },
+  {
+    "id": "00031",
+    "pokemon": "Beldum",
+    "region": "Global",
+    "event": "Steven's",
+    "date": "November 2014",
+    "description": "Wi-Fi event to celebrate the release of ORAS",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00075",
+    "pokemon": "Bouffalant",
+    "region": "Europe",
+    "event": "Gamescom",
+    "date": "August 2015",
+    "description": "Given out at Gamescom 2015 and various European events",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00065",
+    "pokemon": "Bulbasaur",
+    "region": "Japan",
+    "event": "Pokemon Lab",
+    "date": "July 2015",
+    "description": "Given out for completing tasks at the Pokemon Lab in Tokyo",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00048",
+    "pokemon": "Carvanha",
+    "region": "Japan",
+    "event": "Mega Campaign",
+    "date": "January 2015",
+    "description": "Distributed randomly at Pokemon Centres to celebrate the 2nd Mega Campaign",
+    "feature": "Unhatched",
+    "comment": ""
+  },
+  {
+    "id": "00005",
+    "pokemon": "Celebi",
+    "region": "Global",
+    "event": "Pokemon Bank",
+    "date": "December 2013",
+    "description": "Gift for downloading Pokemon Bank during its first year",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00093",
+    "pokemon": "Celebi",
+    "region": "Europe/America",
+    "event": "Game Freak (ENG)",
+    "date": "March 2015",
+    "description": "Wi-Fi gift to celebrate Pokemon's 20th anniversary",
+    "feature": "High IVs",
+    "comment": ""
+  },
+  {
+    "id": "00098",
+    "pokemon": "Charizard",
+    "region": "UK",
+    "event": "GAME UK (X)",
+    "date": "July 2014",
+    "description": "Given out at GAME stores",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00099",
+    "pokemon": "Charizard",
+    "region": "UK",
+    "event": "GAME UK (Y)",
+    "date": "July 2014",
+    "description": "Given out at GAME stores",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00100",
+    "pokemon": "Charizard",
+    "region": "Hong Kong/Taiwan",
+    "event": "XY (X)",
+    "date": "July 2014",
+    "description": "Given out on Nintendo HK/TW's Facebook page to celebrate the new anime",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00101",
+    "pokemon": "Charizard",
+    "region": "Hong Kong/Taiwan",
+    "event": "XY (Y)",
+    "date": "July 2014",
+    "description": "Given out on Nintendo HK/TW's Facebook page to celebrate the new anime",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00105",
+    "pokemon": "Charizard",
+    "region": "Europe",
+    "event": "Gamestop (X)",
+    "date": "September 2014",
+    "description": "Given out at Gamestop stores in Germany",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00106",
+    "pokemon": "Charizard",
+    "region": "Europe",
+    "event": "Gamestop (Y)",
+    "date": "September 2014",
+    "description": "Given out at Gamestop stores in Germany",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00037",
+    "pokemon": "Charizard",
+    "region": "Japan",
+    "event": "Mega Tokyo",
+    "date": "December 2014",
+    "description": "Distributed at Pokemon Centres to celebrate the opening of the Mega Tokyo store",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00117",
+    "pokemon": "Charizard",
+    "region": "Europe",
+    "event": "Spring",
+    "date": "April 2015",
+    "description": "Given out at various game stores in Europe",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00066",
+    "pokemon": "Charmander",
+    "region": "Japan",
+    "event": "Pokemon Lab",
+    "date": "July 2015",
+    "description": "Given out for completing tasks at the Pokemon Lab in Tokyo",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00008",
+    "pokemon": "Darkrai",
+    "region": "Japan",
+    "event": "Wonderland (JPN)",
+    "date": "April 2014",
+    "description": "Gift for pre-ordering tickets for the 17th movie",
+    "feature": "High IVs",
+    "comment": ""
+  },
+  {
+    "id": "00050",
+    "pokemon": "Darkrai",
+    "region": "UK",
+    "event": "February",
+    "date": "February 2015",
+    "description": "Given out at GAME stores",
+    "feature": "High IVs",
+    "comment": ""
+  },
+  {
+    "id": "00090",
+    "pokemon": "Delibird",
+    "region": "Global",
+    "event": "PGL",
+    "date": "December 2015",
+    "description": "Gift for participating in the Festive Feud",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00107",
+    "pokemon": "Diancie",
+    "region": "Japan",
+    "event": "Movie (JPN)",
+    "date": "July 2014",
+    "description": "Gift for watching the 17th movie",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00027",
+    "pokemon": "Diancie",
+    "region": "Taiwan",
+    "event": "Movie (TW)",
+    "date": "August 2014",
+    "description": "Gift for watching the 17th movie",
+    "feature": "High IVs",
+    "comment": ""
+  },
+  {
+    "id": "00128",
+    "pokemon": "Diancie",
+    "region": "N. America",
+    "event": "October",
+    "date": "October 2014",
+    "description": "Given out at Gamestop to tie-in with Phantom Forces",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00129",
+    "pokemon": "Diancie",
+    "region": "Europe",
+    "event": "November",
+    "date": "November 2014",
+    "description": "Given out at various game stores in Europe",
+    "feature": "High IVs",
+    "comment": ""
+  },
+  {
+    "id": "00043",
+    "pokemon": "Diancie",
+    "region": "Korea",
+    "event": "Movie (KOR)",
+    "date": "January 2015",
+    "description": "Gift for watching the 17th movie",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00130",
+    "pokemon": "Diancie",
+    "region": "Europe/America",
+    "event": "Hope",
+    "date": "July 2015",
+    "description": "Wi-Fi gift",
+    "feature": "Somwhat high IVs",
+    "comment": ""
+  },
+  {
+    "id": "00082",
+    "pokemon": "Diancie",
+    "region": "Hong Kong/Taiwan",
+    "event": "Universe",
+    "date": "October 2015",
+    "description": "Given out on Nintendo HK/TW's Facebook page",
+    "feature": "High IVs",
+    "comment": ""
+  },
+  {
+    "id": "00062",
+    "pokemon": "Dragonite",
+    "region": "N. America",
+    "event": "June",
+    "date": "June 2015",
+    "description": "Given out at Gamestop stores to tie-in with Roaring Skies",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00097",
+    "pokemon": "Eevee",
+    "region": "Japan",
+    "event": "Pokescrap",
+    "date": "March 2015",
+    "description": "Obtained by redeeming scrap codes from Pokemon merchandise",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00006",
+    "pokemon": "Electabuzz",
+    "region": "UK",
+    "event": "GAME UK",
+    "date": "April 2014",
+    "description": "Given out at GAME stores to celebrate Easter",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00040",
+    "pokemon": "Emboar",
+    "region": "Japan",
+    "event": "Present (JPN)",
+    "date": "January 2015",
+    "description": "Available from a universal serial code from Pokemon Get TV",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00114",
+    "pokemon": "Emboar",
+    "region": "Europe/America",
+    "event": "Present (ENG)",
+    "date": "January 2015",
+    "description": "Available from a universal serial code from the Pokemon website",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00052",
+    "pokemon": "Fennekin",
+    "region": "Japan",
+    "event": "Serena's",
+    "date": "February 2015",
+    "description": "Available from a universal serial code from the Pokemon anime",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00055",
+    "pokemon": "Feraligatr",
+    "region": "Global",
+    "event": "Pokemon Bank",
+    "date": "February 2015",
+    "description": "Gift for downloading Pokemon Bank during its second year",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00018",
+    "pokemon": "Gengar",
+    "region": "Japan",
+    "event": "Battle Championship",
+    "date": "June 2014",
+    "description": "Distributed at Pokemon Centres during the Pokemon Centre Battle Championship",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00110",
+    "pokemon": "Gengar",
+    "region": "Japan",
+    "event": "Halloween",
+    "date": "September 2014",
+    "description": "Distributed at Pokemon Centres to celebrate Halloween",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00111",
+    "pokemon": "Gengar",
+    "region": "Europe/America",
+    "event": "October",
+    "date": "October 2014",
+    "description": "Given out at game stores to tie-in with Phantom Forces",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00112",
+    "pokemon": "Gengar",
+    "region": "Singapore",
+    "event": "XY",
+    "date": "October 2014",
+    "description": "Given out at Pokemon Day in Singapore",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00087",
+    "pokemon": "Giratina",
+    "region": "Korea",
+    "event": "Dahara City (KOR)",
+    "date": "November 2015",
+    "description": "Available from a universal serial code from the Korean official website",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00035",
+    "pokemon": "Greninja",
+    "region": "Japan",
+    "event": "Smash Bros",
+    "date": "December 2014",
+    "description": "Obtained by registering Super Smash Bros 3DS and ORAS; based on Greninja from Smash Bros",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00016",
+    "pokemon": "Gyarados",
+    "region": "Japan",
+    "event": "Battle Championship",
+    "date": "May 2014",
+    "description": "Distributed at Pokemon Centres during the Pokemon Centre Battle Championship",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00064",
+    "pokemon": "Gyarados",
+    "region": "Japan",
+    "event": "Hiroshima",
+    "date": "June 2015",
+    "description": "Distributed at Pokemon Centres to celebrate the new Hiroshima store",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00109",
+    "pokemon": "Heracross",
+    "region": "N. America",
+    "event": "Summer",
+    "date": "August 2014",
+    "description": "Wi-Fi gift to promote the new mega stones",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00068",
+    "pokemon": "Hoopa",
+    "region": "Japan",
+    "event": "Movie (JPN)",
+    "date": "July 2015",
+    "description": "Gift for watching the 18th movie",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00119",
+    "pokemon": "Hoopa",
+    "region": "Europe",
+    "event": "Harry",
+    "date": "October 2015",
+    "description": "Given out at various game stores in Europe",
+    "feature": "High IVs",
+    "comment": ""
+  },
+  {
+    "id": "00121",
+    "pokemon": "Hoopa",
+    "region": "N. America",
+    "event": "McDonalds",
+    "date": "November 2015",
+    "description": "Distributed at McDonalds",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00122",
+    "pokemon": "Hoopa",
+    "region": "Korea",
+    "event": "Movie (KOR)",
+    "date": "December 2015",
+    "description": "Gift for watching the 18th movie",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00091",
+    "pokemon": "Infernape",
+    "region": "Hong Kong/Taiwan",
+    "event": "Jade",
+    "date": "January 2016",
+    "description": "Given out on Nintendo HK/TW's Facebook page to celebrate Lunar New Year",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00003",
+    "pokemon": "Inkay",
+    "region": "Japan",
+    "event": "Tokyo Bay",
+    "date": "November 2013",
+    "description": "Distributed at Pokemon Centres during the launch of the Tokyo Bay Pokemon Centre",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00025",
+    "pokemon": "Jirachi",
+    "region": "Japan",
+    "event": "Tanabata 2014",
+    "date": "August 2014",
+    "description": "Distributed at the Tohoku Pokemon Centre to celebrate Tanabata; first Shiny Jirachi",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00088",
+    "pokemon": "Jirachi",
+    "region": "Hong Kong/Taiwan",
+    "event": "Nintendo HK",
+    "date": "December 2015",
+    "description": "Given out on Nintendo HK/TW's Facebook page",
+    "feature": "High IVs",
+    "comment": ""
+  },
+  {
+    "id": "00013",
+    "pokemon": "Kangaskhan",
+    "region": "Japan",
+    "event": "Battle Championship",
+    "date": "May 2014",
+    "description": "Distributed at Pokemon Centres during the Pokemon Centre Battle Championship",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00059",
+    "pokemon": "Kangaskhan",
+    "region": "Hong Kong/Taiwan",
+    "event": "Spring",
+    "date": "April 2015",
+    "description": "Given out on Nintendo HK/TW's Facebook page",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00033",
+    "pokemon": "Keldeo",
+    "region": "Japan",
+    "event": "Pokescrap",
+    "date": "December 2014",
+    "description": "Obtained by redeeming scrap codes from Pokemon merchandise",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00061",
+    "pokemon": "Kyurem",
+    "region": "Japan",
+    "event": "Dahara City (JPN)",
+    "date": "June 2015",
+    "description": "Additional gift for pre-ordering tickets for the 18th movie",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00071",
+    "pokemon": "Latios",
+    "region": "Japan",
+    "event": "7-Spot",
+    "date": "August 2015",
+    "description": "Given out at 7-Eleven stores",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00056",
+    "pokemon": "Linoone",
+    "region": "Korea",
+    "event": "WCSK",
+    "date": "March 2015",
+    "description": "Available from a universal serial code from the Korean official website",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00072",
+    "pokemon": "Lugia",
+    "region": "Japan",
+    "event": "7-Spot",
+    "date": "August 2015",
+    "description": "Given out at 7-Eleven stores",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00063",
+    "pokemon": "Magikarp",
+    "region": "Japan",
+    "event": "Hiroshima",
+    "date": "June 2015",
+    "description": "Distributed at Pokemon Centres to celebrate the new Hiroshima store; Could be shiny",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00007",
+    "pokemon": "Magmar",
+    "region": "UK",
+    "event": "GAME UK",
+    "date": "April 2014",
+    "description": "Given out at GAME stores to celebrate Easter",
+    "feature": "Has no ribbon",
+    "comment": ""
+  },
+  {
+    "id": "00077",
+    "pokemon": "Malamar",
+    "region": "Europe",
+    "event": "Gamescom",
+    "date": "August 2015",
+    "description": "Given out at Gamescom 2015 and various European events",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00009",
+    "pokemon": "Mamoswine",
+    "region": "Europe/America",
+    "event": "VGC",
+    "date": "May 2014",
+    "description": "Distributed at VGC Nationals 2014; based off Arash Ommati's Mamoswine",
+    "feature": "High Attack and Speed IVs",
+    "comment": ""
+  },
+  {
+    "id": "00073",
+    "pokemon": "Manaphy",
+    "region": "Korea",
+    "event": "Water Tribe",
+    "date": "July 2015",
+    "description": "Gift for watching the rescreening of the 9th movie",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00015",
+    "pokemon": "Mawile",
+    "region": "Japan",
+    "event": "Battle Championship",
+    "date": "June 2014",
+    "description": "Distributed at Pokemon Centres during the Pokemon Centre Battle Championship",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00053",
+    "pokemon": "Meganium",
+    "region": "Global",
+    "event": "Pokemon Bank",
+    "date": "February 2015",
+    "description": "Gift for downloading Pokemon Bank during its second year",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00092",
+    "pokemon": "Mew",
+    "region": "Europe/America",
+    "event": "Game Freak (ENG)",
+    "date": "February 2015",
+    "description": "Distributed at game stores to celebrate Pokemon's 20th anniversary",
+    "feature": "High IVs",
+    "comment": ""
+  },
+  {
+    "id": "00045",
+    "pokemon": "Numel",
+    "region": "Japan",
+    "event": "Mega Campaign",
+    "date": "January 2015",
+    "description": "Distributed randomly at Pokemon Centres to celebrate the 2nd Mega Campaign",
+    "feature": "Unhatched",
+    "comment": ""
+  },
+  {
+    "id": "00030",
+    "pokemon": "Pachirisu",
+    "region": "Korea",
+    "event": "Sejun's",
+    "date": "November 2014",
+    "description": "Distributed at Korean Regionals; based on Sejun Park's Pachirisu",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00060",
+    "pokemon": "Pachirisu",
+    "region": "Europe/America",
+    "event": "VGC",
+    "date": "May 2015",
+    "description": "Distributed at VGC Nationals 2015; based off Sejun Park's Pachirisu",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00069",
+    "pokemon": "Pancham",
+    "region": "Japan",
+    "event": "Serenea's",
+    "date": "July 2015",
+    "description": "Given out at 7-Eleven stores",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00011",
+    "pokemon": "Pikachu",
+    "region": "Japan",
+    "event": "World Cup",
+    "date": "June 2014",
+    "description": "Japanese World Cup team member Atsuto Uchida's Pikachu",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00019",
+    "pokemon": "Pikachu",
+    "region": "Japan",
+    "event": "Outbreakchu (Landmark)",
+    "date": "August 2014",
+    "description": "Distributed at various locations in Yokohama during the Pikachu Outbreakchu",
+    "feature": "Nickname: Landmark",
+    "comment": ""
+  },
+  {
+    "id": "00020",
+    "pokemon": "Pikachu",
+    "region": "Japan",
+    "event": "Outbreakchu (Cosmo W)",
+    "date": "August 2014",
+    "description": "Distributed at various locations in Yokohama during the Pikachu Outbreakchu",
+    "feature": "Nickname: Cosmo World",
+    "comment": ""
+  },
+  {
+    "id": "00021",
+    "pokemon": "Pikachu",
+    "region": "Japan",
+    "event": "Outbreakchu (Red Brick)",
+    "date": "August 2014",
+    "description": "Distributed at various locations in Yokohama during the Pikachu Outbreakchu",
+    "feature": "Nickname: Red Brick",
+    "comment": ""
+  },
+  {
+    "id": "00022",
+    "pokemon": "Pikachu",
+    "region": "Japan",
+    "event": "Outbreakchu (Captain)",
+    "date": "August 2014",
+    "description": "Distributed at various locations in Yokohama during the Pikachu Outbreakchu",
+    "feature": "Nickname: Captain",
+    "comment": ""
+  },
+  {
+    "id": "00023",
+    "pokemon": "Pikachu",
+    "region": "Japan",
+    "event": "Outbreakchu (Pacifico)",
+    "date": "August 2014",
+    "description": "Distributed at various locations in Yokohama during the Pikachu Outbreakchu",
+    "feature": "Nickname: Pacifico",
+    "comment": ""
+  },
+  {
+    "id": "00024",
+    "pokemon": "Pikachu",
+    "region": "Japan",
+    "event": "Outbreakchu (Secret)",
+    "date": "August 2014",
+    "description": "Distributed at various locations in Yokohama during the Pikachu Outbreakchu",
+    "feature": "Nickname: Pika",
+    "comment": ""
+  },
+  {
+    "id": "00038",
+    "pokemon": "Pikachu",
+    "region": "Japan",
+    "event": "Mega Tokyo",
+    "date": "December 2014",
+    "description": "Distributed at Pokemon Centres to celebrate the opening of the Mega Tokyo store",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00042",
+    "pokemon": "Pikachu",
+    "region": "Japan",
+    "event": "Pokemon Cafe",
+    "date": "January 2015",
+    "description": "Distributed at the Pokemon ORAS Cafe in Shibuya",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00070",
+    "pokemon": "Pikachu",
+    "region": "Japan",
+    "event": "Ash's",
+    "date": "July 2015",
+    "description": "Given out at 7-Eleven stores",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00078",
+    "pokemon": "Pikachu",
+    "region": "Japan",
+    "event": "Yokohama",
+    "date": "August 2015",
+    "description": "Distributed at the Outbreakchu event of 2015",
+    "feature": "Nickname: Dancer",
+    "comment": ""
+  },
+  {
+    "id": "00079",
+    "pokemon": "Pikachu",
+    "region": "Hong Kong",
+    "event": "Satay King",
+    "date": "August 2015",
+    "description": "Given out at Satay King restaurants in Hong Kong",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00080",
+    "pokemon": "Pikachu",
+    "region": "Global",
+    "event": "PGL",
+    "date": "September 2015",
+    "description": "Gift for participating in the Pikachu Cup",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00108",
+    "pokemon": "Pinsir",
+    "region": "N. America",
+    "event": "Summer",
+    "date": "August 2014",
+    "description": "Wi-Fi gift to promote the new mega stones",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00036",
+    "pokemon": "Piplup",
+    "region": "Japan",
+    "event": "Farewell",
+    "date": "December 2014",
+    "description": "Distributed at the Tokyo Pokemon Centre before it closed",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00029",
+    "pokemon": "Pumpkaboo",
+    "region": "Europe/America",
+    "event": "Spooky",
+    "date": "October 2014",
+    "description": "Wi-Fi gift to promote the Trick-or-Treat Friendly; Super Size",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00044",
+    "pokemon": "Ralts",
+    "region": "Japan",
+    "event": "Mega Campaign",
+    "date": "January 2015",
+    "description": "Distributed randomly at Pokemon Centres to celebrate the 2nd Mega Campaign",
+    "feature": "Unhatched",
+    "comment": ""
+  },
+  {
+    "id": "00049",
+    "pokemon": "Rayquaza",
+    "region": "Japan",
+    "event": "World Hobby Fair",
+    "date": "January 2015",
+    "description": "Distributed at the Winter 2015 World Hobby Fair",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00116",
+    "pokemon": "Rayquaza",
+    "region": "Japan",
+    "event": "CoroCoro",
+    "date": "March 2015",
+    "description": "Given out at various stores in Japan",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00125",
+    "pokemon": "Rayquaza",
+    "region": "Hong Kong/Taiwan",
+    "event": "Nintendo HK",
+    "date": "September 2015",
+    "description": "Given out on Nintendo HK/TW's Facebook page",
+    "feature": "High IVs",
+    "comment": ""
+  },
+  {
+    "id": "00095",
+    "pokemon": "Regice",
+    "region": "Global",
+    "event": "Pokemon Bank",
+    "date": "March 2015",
+    "description": "Gift for downloading Pokemon Bank during its third year",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00094",
+    "pokemon": "Regirock",
+    "region": "Global",
+    "event": "Pokemon Bank",
+    "date": "March 2015",
+    "description": "Gift for downloading Pokemon Bank during its third year",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00096",
+    "pokemon": "Registeel",
+    "region": "Global",
+    "event": "Pokemon Bank",
+    "date": "March 2015",
+    "description": "Gift for downloading Pokemon Bank during its third year",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00028",
+    "pokemon": "Rotom",
+    "region": "Japan",
+    "event": "Tretta",
+    "date": "October 2014",
+    "description": "Distributed at Pokemon Tretta arcade machines",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00074",
+    "pokemon": "Sableye",
+    "region": "Europe",
+    "event": "Gamescom",
+    "date": "August 2015",
+    "description": "Given out at Gamescom 2015 and various European events",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00041",
+    "pokemon": "Samurott",
+    "region": "Japan",
+    "event": "Present (JPN)",
+    "date": "January 2015",
+    "description": "Available from a universal serial code from CoroCoro",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00017",
+    "pokemon": "Scizor",
+    "region": "Japan",
+    "event": "Battle Championship",
+    "date": "May 2014",
+    "description": "Distributed at Pokemon Centres during the Pokemon Centre Battle Championship",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00039",
+    "pokemon": "Serperior",
+    "region": "Japan",
+    "event": "Present (JPN)",
+    "date": "January 2015",
+    "description": "Available from a universal serial code from Pokemon Get TV",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00113",
+    "pokemon": "Serperior",
+    "region": "Europe/America",
+    "event": "Present (ENG)",
+    "date": "January 2015",
+    "description": "Available from a universal serial code from the Pokemon website",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00115",
+    "pokemon": "Serperior",
+    "region": "Europe/America",
+    "event": "Present (ENG)",
+    "date": "January 2015",
+    "description": "Available from a universal serial code from the Pokemon Trainer Club newsletter",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00081",
+    "pokemon": "Sharpedo",
+    "region": "N. America",
+    "event": "Worlds",
+    "date": "August 2015",
+    "description": "Distributed at Pokemon Worlds 2015",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00032",
+    "pokemon": "Shaymin",
+    "region": "Japan",
+    "event": "Pokescrap",
+    "date": "December 2014",
+    "description": "Obtained by redeeming scrap codes from Pokemon merchandise",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00067",
+    "pokemon": "Squirtle",
+    "region": "Japan",
+    "event": "Pokemon Lab",
+    "date": "July 2015",
+    "description": "Given out for completing tasks at the Pokemon Lab in Tokyo",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00047",
+    "pokemon": "Swablu",
+    "region": "Japan",
+    "event": "Mega Campaign",
+    "date": "January 2015",
+    "description": "Distributed randomly at Pokemon Centres to celebrate the 2nd Mega Campaign",
+    "feature": "Unhatched",
+    "comment": ""
+  },
+  {
+    "id": "00001",
+    "pokemon": "Sylveon",
+    "region": "Japan",
+    "event": "Birthday",
+    "date": "October 2013",
+    "description": "Given out at Pokemon Centres during your birth month",
+    "feature": "Picked up on my birthday",
+    "comment": ""
+  },
+  {
+    "id": "00004",
+    "pokemon": "Sylveon",
+    "region": "Hong Kong/Taiwan",
+    "event": "XY",
+    "date": "January 2014",
+    "description": "Distributed at various locations to tie in with the 16th movie",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00002",
+    "pokemon": "Torchic",
+    "region": "Global",
+    "event": "XY",
+    "date": "October 2013",
+    "description": "Wi-Fi event to celebrate the release of XY; initial release of Blazikenite",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00054",
+    "pokemon": "Typhlosion",
+    "region": "Global",
+    "event": "Pokemon Bank",
+    "date": "February 2015",
+    "description": "Gift for downloading Pokemon Bank during its second year",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00014",
+    "pokemon": "Tyranitar",
+    "region": "Japan",
+    "event": "Battle Championship",
+    "date": "May 2014",
+    "description": "Distributed at Pokemon Centres during the Pokemon Centre Battle Championship",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00051",
+    "pokemon": "Tyrunt",
+    "region": "Global",
+    "event": "PGL",
+    "date": "February 2015",
+    "description": "Gift for participating in the Battle of Hoenn",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00034",
+    "pokemon": "Victini",
+    "region": "Japan",
+    "event": "Pokescrap",
+    "date": "December 2014",
+    "description": "Obtained by redeeming scrap codes from Pokemon merchandise",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00010",
+    "pokemon": "Vivillon",
+    "region": "Europe",
+    "event": "Paris",
+    "date": "June 2014",
+    "description": "Poke Ball pattern; available at the temporary Pokemon Centre in Paris",
+    "feature": "High Special Attack and Speed IVs",
+    "comment": ""
+  },
+  {
+    "id": "00012",
+    "pokemon": "Vivillon",
+    "region": "Global",
+    "event": "GTS",
+    "date": "July 2014",
+    "description": "Fancy Pattern; celebration of 100 million GTS trades",
+    "feature": "High Special Attack and Speed IVs",
+    "comment": ""
+  },
+  {
+    "id": "00102",
+    "pokemon": "Vivillon",
+    "region": "Japan",
+    "event": "Pokemon Centre",
+    "date": "August 2014",
+    "description": "Poke Ball pattern; distributed at Pokemon Centres in Japan",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00103",
+    "pokemon": "Vivillon",
+    "region": "N. America",
+    "event": "Summer",
+    "date": "August 2014",
+    "description": "Poke Ball pattern; Wi-Fi gift to celebrate the Pokemon Centre's reopening",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00104",
+    "pokemon": "Vivillon",
+    "region": "Europe",
+    "event": "Summer",
+    "date": "August 2014",
+    "description": "Poke Ball pattern; first available at Gamescom 2014 then as a Wi-Fi gift",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00127",
+    "pokemon": "Xerneas",
+    "region": "Japan",
+    "event": "XY & Z",
+    "date": "October 2015",
+    "description": "Available from a universal serial code from the Pokemon anime",
+    "feature": "High IVs and trained",
+    "comment": ""
+  },
+  {
+    "id": "00084",
+    "pokemon": "Yveltal",
+    "region": "Japan",
+    "event": "XY & Z",
+    "date": "November 2015",
+    "description": "Available from a universal serial code from the Pokemon anime",
+    "feature": "High IVs",
+    "comment": ""
+  },
+  {
+    "id": "00086",
+    "pokemon": "Zoroark",
+    "region": "Europe",
+    "event": "Sly (EU)",
+    "date": "November 2015",
+    "description": "Given out at game stores to tie-in with BREAKthrough",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00120",
+    "pokemon": "Zoroark",
+    "region": "N. America",
+    "event": "Sly (NA)",
+    "date": "November 2015",
+    "description": "Given out at game stores to tie-in with BREAKthrough",
+    "feature": "",
+    "comment": ""
+  },
+  {
+    "id": "00085",
+    "pokemon": "Zygarde",
+    "region": "Japan",
+    "event": "XY & Z",
+    "date": "November 2015",
+    "description": "Available from a universal serial code from the Pokemon anime",
+    "feature": "High IVs but wrong nature...",
+    "comment": ""
+  }
+]}
