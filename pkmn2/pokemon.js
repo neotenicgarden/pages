@@ -9,7 +9,7 @@ $(document ).ready(function(){
 	});
 	console.log(pkmnDB);
 	console.log(pkmnDB.length);
-	console.log(pkmnDB[0].pokemon);
+	//console.log(pkmnDB[0].pokemon);
 	
 	// testing
 	// $("#x-name").text(pkmnDB[0].pokemon);
