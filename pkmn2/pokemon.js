@@ -14,9 +14,6 @@ $(document ).ready(function(){
 	
 	// testing
 	// $("#x-name").text(pkmnDB[0].pokemon);
-	
-	
-
 
 
 });
